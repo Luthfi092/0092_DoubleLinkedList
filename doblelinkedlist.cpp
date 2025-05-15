@@ -134,7 +134,8 @@ class DoubleLinkedList
         return;
        }
 
-  
+       //step 1: mark first node as current node
+       Node *currentNode = START;
       
     
    }
