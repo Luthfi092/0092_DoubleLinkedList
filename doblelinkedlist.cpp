@@ -149,7 +149,18 @@ class DoubleLinkedList
    }
 
 
+    void retraverse()
+    {
+        if (START == NULL)
+        {
+            cout << "\nList is empty" << endl;
+            return;
+        }
+ 
   
+
+   
+    }
 
   
 };
