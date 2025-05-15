@@ -100,7 +100,8 @@ class DoubleLinkedList
 
         if (current == NULL)
         {
-         
+            cout << "Record not found" << endl;
+            return;
         }
 
 
