@@ -92,7 +92,16 @@ class DoubleLinkedList
         int rollNo;
         cin >> rollNo;
 
-     
+        Node *current = START;
+
+        //step 1:Traverse the list to find the node 
+        while(current != NULL && current->noMhs != rollNo)
+            current = current->next;
+
+        if (current == NULL)
+        {
+         
+        }
 
 
 
