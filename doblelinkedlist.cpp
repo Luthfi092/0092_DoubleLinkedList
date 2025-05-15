@@ -226,6 +226,10 @@ int main()
 
         cin >> choice;
 
-  
+        switch (choice)
+        {
+
+        }
+   
     } while (choice != '6');   
 }
