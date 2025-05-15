@@ -186,7 +186,9 @@ class DoubleLinkedList
             return;
         }
 
-  
+        int rollNo;
+        cout << "\nEnter the roll number to search: ";
+        cin >> rollNo;
 
  
   
