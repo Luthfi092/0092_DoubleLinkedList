@@ -213,5 +213,10 @@ int main()
     DoubleLinkedList list;
     char choice;
 
+    do
+    {
 
+
+  
+    } while (choice != '6');   
 }
