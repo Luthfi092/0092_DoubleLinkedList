@@ -80,6 +80,21 @@ class DoubleLinkedList
             current->next->prev = newNode; //step 9c: current.next = newNode
     }
 
+    void hapus()
+    {
+        if (START == NULL)
+        {
+       
+        }
+
+     
+
+     
+
+
+
+  
+   }
 
 
 
