@@ -166,7 +166,13 @@ class DoubleLinkedList
             i++;
         }
 
-   
+        //step 2: Travers backward
+        cout << "\nRecords is descanding order of roll number are:\n";
+        while (currentNode != NULL)
+        {
+           
+
+        }
     }
 
   
