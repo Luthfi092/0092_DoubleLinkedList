@@ -178,6 +178,17 @@ class DoubleLinkedList
         }
     }
 
+    void searchData()
+    {
+        if (START == NULL)
+        {
+      
+        }
+
   
+
+ 
+  
+    }
 };
 
